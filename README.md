@@ -36,7 +36,7 @@ or
 
 Runs the project in development mode with hot reloading.
 
-for more see official docs here : [Parcel Documentation](https://parceljs.org/docs/).
+For more see official docs here : [Parcel Documentation](https://parceljs.org/docs/).
 
 ### Disclaimer
 
