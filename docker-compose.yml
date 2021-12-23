@@ -1,0 +1,10 @@
+version: "3"
+services:
+  dev:
+    image: node
+    working_dir: /usr/src/app
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - 1234:1234
+    command: yarn start
